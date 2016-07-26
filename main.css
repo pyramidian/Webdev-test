@@ -11,8 +11,8 @@
   
 }
 
-.body2 {
-  animation: blinker .1s linear infinite;
+.body1 {
+  animation: blinker 0.1s linear infinite;
 }
 
 @keyframes blinker {  
