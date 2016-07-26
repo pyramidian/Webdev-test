@@ -5,7 +5,8 @@
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
   font-size: 2rem;
   background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2015-10/27/17/enhanced/webdr07/longform-24536-1445980295-3.jpg");
-  background-size: contain;
+  background-size: cover;
+  background-size: auto auto;
   color: #ffffff;
   
 }
