@@ -10,7 +10,7 @@
   color: #102118;
   
 }
-/*
+
 .body1 {
 	animation: blinker 0.1s linear infinite;
 }
@@ -29,4 +29,3 @@
     animation:spin 1s linear infinite;
 }
 @keyframes spin { 100% { transform: rotate(360deg);
-*/
